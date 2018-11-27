@@ -1,0 +1,9 @@
+<library path="lib/libselected_pointcloud_publish_plugin">
+  <class name="selected_pointcloud_publish_plugin/SelectPointCloudPublishAction"
+         type="selected_pointcloud_publish_plugin::SelectPointCloudPublishAction"
+         base_class_type="rviz::Panel">
+    <description>
+      A panel widget to SelectPointCloudPublish action
+    </description>
+  </class>
+</library>
